@@ -1,0 +1,22 @@
+.logo {
+  width: 100px;
+}
+
+.footer {
+  background-color: orange;
+  color: white;
+}
+
+body {
+  user-select: none;
+}
+
+.login-image {
+  width: 90%;
+}
+
+.login-form {
+  box-shadow: 3px 3px 43px -9px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 3px 3px 43px -9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 3px 3px 43px -9px rgba(0, 0, 0, 0.75);
+}
